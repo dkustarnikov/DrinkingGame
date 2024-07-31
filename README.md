@@ -1,3 +1,1 @@
-"# AdroidProjects" 
-Created by Dmitry Kustarnikov
-Date created: April 10th
+During the COVID-19 pandemic, I developed an Android board game application designed for offline play. The game incorporates several features, including shortcuts for enhanced user experience, virtual dice, and an auto-move function to streamline gameplay. This project provided a fun and engaging way for users to enjoy board games without the need for an internet connection.
