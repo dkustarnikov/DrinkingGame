@@ -1,6 +1,6 @@
 # DrinkingGame
 
-This is a small project that allows players to play a drinking game during quarantine from Covid-19.
+An Android-based board game for quarantine with offline play, shortcuts, dice, and auto-move
 
 ## Features
 
